@@ -2,7 +2,7 @@ console.log("This is my index js file");
 
 // Initialize the news api parameters
 let source = '';
-let apiKey = 'd093053d72bc40248998159804e0e67d'
+let apiKey = '825bc11c70154a5db8e579a0ffa6c7e3'
 
 // Grab the news container
 let newsAccordion = document.getElementById('newsAccordion');
